@@ -1,6 +1,6 @@
 hello zjy! hello git! 22222
 hello zjy! hello git!
-hello zjy! hello git!
+hello zjy! hello git! hot-fix test
 hello zjy! hello git!
 hello zjy! hello git!
 hello zjy! hello git!
